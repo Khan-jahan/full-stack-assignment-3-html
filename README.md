@@ -47,6 +47,8 @@ Could you create a simple HTML portfolio page that showcases your skills and pro
 #### Submission
 Create a Pull-request. Remember to add your deployed website link to README.md when making the PR.  
 
+<h2> Basic HTML Assingment Done Today</h2>
+
 ## B. [HTML Intermediate Part](https://www.youtube.com/live/gsVT8_KXnxc?si=x2D06FVZyHBjTJRD)
 ### 1. **Add meta tags and use semantic tags everywhere**
 ### 2. **Add social icons inside the footer: usefont-awesome icons**
